@@ -1,11 +1,5 @@
-# 3D CAROUSEL
+# The Book of Acts
 
-[![GitHub Issues](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alikinvv/3d-carousel/issues)  [![HitCount](http://hits.dwyl.com/alikinvv/3d-carousel.svg)](http://hits.dwyl.com/alikinvv/3d-carousel)  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://www.paypal.me/alikinvv)
+1 And when the day of Pentecost was fully come, they were all with one accord in one place. 2 And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. 3 And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. 4 And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance. 
 
-:star: Star us on GitHub — it helps!
-
-## [Live Demo](https://alikinvv.github.io/3d-carousel/build)
-
-![3d carousel](/src/img/gif.gif?raw=true)
-
-[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/3d-carousel-repo)](https://github.com/alikinvv/3d-carousel)
+(Acts 2:1-3)
